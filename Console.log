@@ -1,0 +1,43 @@
+Place order - 12
+Baking Order in progress - 12
+***********Failure to Bake, Delivery Failed!12
+Place order - 9
+Baking Order in progress - 9
+Place order - 9
+Baking Order in progress - 9
+***********Failure to Bake, Delivery Failed!9
+Delivery in progress-9
+Place order - 15
+Baking Order in progress - 15
+*****Order Successfully delivered! - 9****
+Place order - 10
+Delivery in progress-15
+Baking Order in progress - 10
+*****Order Successfully delivered! - 15****
+Place order - 8
+Delivery in progress-10
+Baking Order in progress - 8
+*****Order Successfully delivered! - 10****
+Place order - 10
+Delivery in progress-8
+Baking Order in progress - 10
+***********Failure to Bake, Delivery Failed!10
+*****Order Successfully delivered! - 8****
+Place order - 13
+Baking Order in progress - 13
+Place order - 10
+Delivery in progress-13
+Baking Order in progress - 10
+*****Order Successfully delivered! - 13****
+Place order - 6
+Delivery in progress-10
+Baking Order in progress - 6
+***********Failure to Bake, Delivery Failed!6
+*****Order Successfully delivered! - 10****
+Place order - 14
+Baking Order in progress - 14
+***********Failure to Bake, Delivery Failed!14
+Place order - 12
+Baking Order in progress - 12
+***********Failure to Bake, Delivery Failed!12
+***********Order cannot be processed, Delivery Failed!23
